@@ -24,7 +24,7 @@ The Bike sharing data is the master details dataset and Data dictionary is to un
 ## Conclusions
 - Conclusion :
 
--
+
 cnt = 0.3661 + (0.2338 x yr) +(0.4577 x atemp) - (0.1640 x hum) - (0.1676 x windspeed) - (0.1040 x spring) +(0.0316 x winter) -(0.2462 x Light rain) -(0.0569 x Mist) -(0.0438 x Sunday) - (0.0429 x jan)- (0.0570 x jul) + (0.0721 x sep) + (0.0371 x may) +(0.0481 x oct)
 
 
@@ -55,6 +55,6 @@ Give credit here.
 
 
 ## Contact
-Created by [@@Bhargava3108] - feel free to contact me!
+Created by [@Bhargava3108] - feel free to contact me!
 
 
